@@ -1,0 +1,11 @@
+#The database contains the list of books availaible
+SQLite format 3@  .?�
+���w�MtablebooksbooksCREATE TABLE books (id INTEGER PRIMARY KEY, title text, author text, year integer, isbn integer)p�?tableissueissueCREATE TABLE issue(id INTEGER NOT NULL ,title text,author text,year INTEGER,isbn INTEGER)o�AtableBOOKBOOKCREATE TABLE BOOK(id INTEGER PRIMARY KEY,title text,author text,year INTEGER,isbn INTEGER)
+�H��P�H
+
+
+
+53#+Pride and PrejudiceJane Austen	978-0141439518('+1984George Orwell�	978-045152493557!)To kill a MockingbirdHarper Lee�978-0446310789abcxyz
+��
+��5	7!)To kill a MockingbirdHarper Lee�978-0446310789
+
