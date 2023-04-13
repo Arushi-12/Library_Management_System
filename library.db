@@ -1,0 +1,22 @@
+SQLite format 3@  
+
+._
+�77���utableLibraryLibraryCREATE TABLE Library (BK_NAME TEXT, BK_ID TEXT PRIMARY KEY NOT NULL, AUTHOR_NAME TEXT, BK_STATUS TEXT, CARD_ID TEXT)-Aindexsqlite_autoindex_Library_1Library
+
+��zO ��k1
+�
+�
+�0%%Bag of BonesAA0010Stephen KingAvailableN/A1
+#)The PhoenixAA0009Sidney SheldonAvailableN/A?	=+A Thousand Splendid SunsAA0008Khaled HosseiniAvailableN/A81)Gulliver's TravelsAA0007Jonathan SwiftAvailableN/AM]'Harry Potter and the Philisopher's StoneAA0006J. K. RowlingAvailableN/A3/!The Invisible ManAA0005H.G. WellsAvailableN/A/+The HostAA0004Stephenie MeyerAvailableN/A-%Entry IslandAA0003Peter MayAvailableN/A)'1984AA0002George OrwellAvailableN/AK[%Harry Potter and the Chamber of SecretsAA0001J.K. RowlingAvailableN/A77!To Kill a MockingbirdAA0000Harper LeeAvailableN/A
+������������
+AA0010
+AA0009
+
+AA0008	
+AA0007
+AA0006
+AA0005
+AA0004
+AA0003
+AA0002
+AA0001		AA0000
