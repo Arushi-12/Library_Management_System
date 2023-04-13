@@ -1,0 +1,4 @@
+SQLite format 3@  ._
+�rr�[�tableuseruserCREATE TABLE user(roll no INTEGER PRIMARY KEY,name text,password text)';indexsqlite_autoindex_user_1user
+��VAarohi12345
+��	V
